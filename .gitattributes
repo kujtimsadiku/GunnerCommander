@@ -1,1 +1,2 @@
 *.app filter=lfs diff=lfs merge=lfs -text
+GunnerExecutable.app filter=lfs diff=lfs merge=lfs -text
