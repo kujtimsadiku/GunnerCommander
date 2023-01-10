@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 32c7067f2903e4212abaa4f7d70f02e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 512
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac008c1833054c42b3a23408279832b
+      internalID: 1897085482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 499
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f146fb812ed44174bf06d1bae587035
+      internalID: -1699669039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 88
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13687efab18746f49000a2bfdc73b6b
+      internalID: 810139858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 325
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184260058531f4d6e8bca742364f3b2c
+      internalID: -2138847184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 322
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a0a0ad6178b461ea0b0a80fb9af495
+      internalID: -1417421232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf31977118a64768ba17e5f1f568b3e
+      internalID: 212430119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b43fcaa820284cb0a839f6bb9ca7fc3
+      internalID: -2089957661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 194
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe297cfdacd99432da8c9b7c2956eb31
+      internalID: 1715916938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0503c6d16cf054d8ab3bde8280383673
+      internalID: -2120414436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f630d81251a4037b5fead4a1a1caa5
+      internalID: -756086262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dbc109779e54c13b892558e93ce25e
+      internalID: -381181991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploding_barrel-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d334fe83354d4e738465f4387455c88
+      internalID: -458210975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      exploding_barrel-sheet_40: 563146274
+      exploding_barrel-sheet_47: -2120414436
+      exploding_barrel-sheet_17: -387327334
+      exploding_barrel-sheet_3: 810139858
+      exploding_barrel-sheet_0: 1897085482
+      exploding_barrel-sheet_32: -1393610081
+      exploding_barrel-sheet_29: 1242059151
+      exploding_barrel-sheet_44: 2002881786
+      exploding_barrel-sheet_4: -2138847184
+      exploding_barrel-sheet_22: 1477299196
+      exploding_barrel-sheet_25: -399645767
+      exploding_barrel-sheet_31: -384093675
+      exploding_barrel-sheet_20: -1816768270
+      exploding_barrel-sheet_37: 1577060232
+      exploding_barrel-sheet_9: -1582236572
+      exploding_barrel-sheet_23: 1456441670
+      exploding_barrel-sheet_35: -347648291
+      exploding_barrel-sheet_36: -247806718
+      exploding_barrel-sheet_24: -1078971660
+      exploding_barrel-sheet_42: 164979218
+      exploding_barrel-sheet_38: 368504012
+      exploding_barrel-sheet_10: -1155881632
+      exploding_barrel-sheet_8: 1898366710
+      exploding_barrel-sheet_13: -142478649
+      exploding_barrel-sheet_43: 13012988
+      exploding_barrel-sheet_1: -1699669039
+      exploding_barrel-sheet_21: -2089957661
+      exploding_barrel-sheet_34: 1956157935
+      exploding_barrel-sheet_49: -381181991
+      exploding_barrel-sheet_6: -885068644
+      exploding_barrel-sheet_7: -1838726630
+      exploding_barrel-sheet_15: 169156114
+      exploding_barrel-sheet_39: -800524765
+      exploding_barrel-sheet_46: 194168419
+      exploding_barrel-sheet_14: 1484554799
+      exploding_barrel-sheet_48: -756086262
+      exploding_barrel-sheet_30: 1715916938
+      exploding_barrel-sheet_5: -1417421232
+      exploding_barrel-sheet_11: -1105622175
+      exploding_barrel-sheet_45: -263788967
+      exploding_barrel-sheet_16: -96606383
+      exploding_barrel-sheet_2: -458210975
+      exploding_barrel-sheet_27: 1796626531
+      exploding_barrel-sheet_33: -742948284
+      exploding_barrel-sheet_26: -1254309404
+      exploding_barrel-sheet_12: 874377993
+      exploding_barrel-sheet_19: 656018208
+      exploding_barrel-sheet_18: 212430119
+      exploding_barrel-sheet_41: 463089687
+      exploding_barrel-sheet_28: 1492505041
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 77fc6fe6b4e4b4efcab4853c5c0f85eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BugAttack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.42465752, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c24fce4c2954ea8a264e194cd468f5
+      internalID: -1890541385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 85
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f09faed4c564db0a12b67472c7749a
+      internalID: -672226396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 85
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731d2dc62e294c91abfbd1270f64ac4
+      internalID: 1538148961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 85
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e47d0b90d849486ea0932d0a243ba47
+      internalID: 1913945447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 85
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185e68acf4cd4032a5de831c9d8493a
+      internalID: 952673178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 85
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdae40414c6d404f89acb68da6a0127
+      internalID: -1960629386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 86
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92d2e703e954aca9033931df35298f
+      internalID: 362917313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 87
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a63fd7be83c41f4b274f7fe3011847
+      internalID: 1271104868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 88
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f0ac51995a423e982a7b7b741f70a
+      internalID: 1659361857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 87
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6979f60a66548eda8e01a275338fe8
+      internalID: 26410343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7d6f088da84770b3e4eb710a5052c
+      internalID: 2142439854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 14
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82435c1127046eba07e988637a8f9b
+      internalID: 831754106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41117215d804bf1a00271c96cc3017
+      internalID: -661885234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb343c9b8a294d4c8e7aea9e903cbc3
+      internalID: -1969995562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea31fdd75ce427b8445da210a4ee87
+      internalID: 66271140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c66ea3a4b314d828c354829fceef8c
+      internalID: 108028022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e992754396c80444c99890771424e630
+      internalID: -1440858766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ff5495c9074128a7c35cd9080eb56
+      internalID: 1768399790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2511436a6714b0881066cce255679a
+      internalID: -1738079328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugAttack_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 13
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ecaf07a791f4e869a2a73ebefbfc7f
+      internalID: -782964967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BugAttack_0: -1890541385
+      BugAttack_1: -672226396
+      BugAttack_12: -661885234
+      BugAttack_5: -1960629386
+      BugAttack_8: 1659361857
+      BugAttack_6: 362917313
+      BugAttack_17: 1768399790
+      BugAttack_10: 2142439854
+      BugAttack_16: -1440858766
+      BugAttack_18: -1738079328
+      BugAttack_2: 1538148961
+      BugAttack_13: -1969995562
+      BugAttack_15: 108028022
+      BugAttack_3: 1913945447
+      BugAttack_9: 26410343
+      BugAttack_11: 831754106
+      BugAttack_7: 1271104868
+      BugAttack_14: 66271140
+      BugAttack_19: -782964967
+      BugAttack_4: 952673178
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: cf612a06797544c6b914d092b21c7191
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BugSplashEffect_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080075a0192904a8c95455a0b66197fb
+      internalID: -909763546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 116
+        width: 38
+        height: 46
+      alignment: 9
+      pivot: {x: 0.65789473, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902e7811374347b889fda7bcd26f7a9
+      internalID: 1211546035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.59999996, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc08475577d7d432c9916b86085ef7ac
+      internalID: 1345342872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f8edfc1a38c4b77a06d6eafa05b8f5
+      internalID: -531734588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 109
+        width: 58
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.5081967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9d1b0e7a0d49e2b0d0e1d59c223b1
+      internalID: -1940832993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa805ecffe045229d5df774c823103
+      internalID: -607679460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 107
+        width: 66
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd89b28766e4ae58b2cb91cf0a4f1e
+      internalID: -638171178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 74
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6486487, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167959cc5c814b6da14102ea9c00566
+      internalID: 236795084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 100
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea7182801e043bc92768c431d7140e
+      internalID: 2051086677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_24
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 98
+        width: 80
+        height: 84
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e99fdb1b16441219178f60bc0a242f
+      internalID: -737141595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_28
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 95
+        width: 90
+        height: 84
+      alignment: 9
+      pivot: {x: 0.62222224, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a4fc065278462eba9cb56d66aa257
+      internalID: -1950586377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 124
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6868164ea50d241f0b7d622c3523567a
+      internalID: -1372346377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugSplashEffect_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 106
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b279d0c0006444f8b859164afecc0f
+      internalID: -554088711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BugSplashEffect_18: 342424109
+      BugSplashEffect_60: -1633039077
+      BugSplashEffect_28: -1950586377
+      BugSplashEffect_62: 2084719742
+      BugSplashEffect_26: 1031701278
+      BugSplashEffect_5: -1940832993
+      BugSplashEffect_3: 1345342872
+      BugSplashEffect_39: 604845589
+      BugSplashEffect_9: 236795084
+      BugSplashEffect_23: 1620351377
+      BugSplashEffect_10: -46588903
+      BugSplashEffect_37: 2015092151
+      BugSplashEffect_7: -638171178
+      BugSplashEffect_56: -682640069
+      BugSplashEffect_35: 1599677763
+      BugSplashEffect_13: -1176316983
+      BugSplashEffect_11: 1834334091
+      BugSplashEffect_47: -1110328113
+      BugSplashEffect_17: -608413233
+      BugSplashEffect_8: 128375939
+      BugSplashEffect_21: 2051086677
+      BugSplashEffect_1: -768478706
+      BugSplashEffect_25: 1546826328
+      BugSplashEffect_38: 1369129289
+      BugSplashEffect_22: 544884064
+      BugSplashEffect_57: -1854543953
+      BugSplashEffect_31: 789690975
+      BugSplashEffect_24: -737141595
+      BugSplashEffect_32: -554088711
+      BugSplashEffect_20: -1303841688
+      BugSplashEffect_29: -1049535209
+      BugSplashEffect_16: 1196123924
+      BugSplashEffect_45: 2127269669
+      BugSplashEffect_0: -909763546
+      BugSplashEffect_49: 1560292052
+      BugSplashEffect_43: -1008774486
+      BugSplashEffect_2: 1211546035
+      BugSplashEffect_41: 2028691476
+      BugSplashEffect_40: 1392017556
+      BugSplashEffect_27: -918036927
+      BugSplashEffect_52: -2109938724
+      BugSplashEffect_36: -199393514
+      BugSplashEffect_46: 1973237502
+      BugSplashEffect_53: -453117644
+      BugSplashEffect_34: 1218755172
+      BugSplashEffect_50: 1717710873
+      BugSplashEffect_4: -531734588
+      BugSplashEffect_14: 254043790
+      BugSplashEffect_42: 2053763218
+      BugSplashEffect_44: -2110566996
+      BugSplashEffect_33: 2066008139
+      BugSplashEffect_19: 1162836819
+      BugSplashEffect_6: -607679460
+      BugSplashEffect_48: -238111640
+      BugSplashEffect_30: -1372346377
+      BugSplashEffect_51: 259138644
+      BugSplashEffect_54: 1851729131
+      BugSplashEffect_55: 1781383483
+      BugSplashEffect_63: 1361547959
+      BugSplashEffect_12: -230960084
+      BugSplashEffect_58: -210992789
+      BugSplashEffect_15: 2084920101
+      BugSplashEffect_61: 221824698
+      BugSplashEffect_59: -1810542827
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

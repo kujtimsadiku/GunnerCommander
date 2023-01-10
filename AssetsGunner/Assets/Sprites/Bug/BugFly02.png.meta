@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 71bfee8be743342019c6ba7b4269551d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BugFly02_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 103
+        width: 71
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4366197, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1053b3d6b64934f8ba2785f51c08e3e3
+      internalID: 1151510272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 103
+        width: 71
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4084507, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166018dfafc0e44f8a3a7aeee037e4ca
+      internalID: -1099408599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 103
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9b48cadb764a8f963efca2d3e1343
+      internalID: -1927696774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 103
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.40298507, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00ce99367bb4088814b05ba0b66ced
+      internalID: -296121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 103
+        width: 71
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3802817, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443dd7704d954489bd7b99daeeece5b
+      internalID: -2036921581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 103
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43283582, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161755966966f4297b45d971d57375c7
+      internalID: 1766849461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_6
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 101
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c3cfe5d978c419791c89daac8c27ba
+      internalID: -1094633306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 98
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78e3450b618417489721b400445ecd
+      internalID: -993402201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 98
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494c0492e46e48d2b0b4bd519221cc4
+      internalID: -49338253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 98
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee016000ca3c3471b8a3f519d3a32313
+      internalID: -2105264104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0829090d078e549df9c6350a834ed331
+      internalID: 650636123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c55f15c0d1b45509aaf41b8d90ff9a
+      internalID: -1595159798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 25
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967baa97adb1840ab9791f23ed84b7f5
+      internalID: 516268070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 25
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41428572, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb36c85665c41abb502a6c14ffbb63
+      internalID: 2134455468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 25
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f45dd97cfab4dc489127df89778172
+      internalID: 1915699664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 25
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e1db6af4d92493f805315637c67101
+      internalID: 1444659453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 25
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41428572, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80bb9bfe373545ea82bf210f662e224
+      internalID: -188446364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 25
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.40298507, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5ff48194d7453f912ebf9bcb35496
+      internalID: -1301572227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 25
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41791043, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895279ac4c75849abb10e8ac52ef357b
+      internalID: 698121006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugFly02_19
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 25
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15039628aab94e3b8fd781c9b85ec6d
+      internalID: 1738716583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BugFly02_3: -296121678
+      BugFly02_16: -188446364
+      BugFly02_6: -1094633306
+      BugFly02_12: 516268070
+      BugFly02_18: 698121006
+      BugFly02_5: 1766849461
+      BugFly02_13: 2134455468
+      BugFly02_4: -2036921581
+      BugFly02_0: 1151510272
+      BugFly02_14: 1915699664
+      BugFly02_9: -2105264104
+      BugFly02_8: -49338253
+      BugFly02_2: -1927696774
+      BugFly02_1: -1099408599
+      BugFly02_11: -1595159798
+      BugFly02_19: 1738716583
+      BugFly02_15: 1444659453
+      BugFly02_7: -993402201
+      BugFly02_10: 650636123
+      BugFly02_17: -1301572227
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

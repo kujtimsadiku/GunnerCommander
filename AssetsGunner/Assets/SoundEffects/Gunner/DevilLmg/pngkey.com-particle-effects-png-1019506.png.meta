@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 5e7e201b6abd0489ea61a2a7f9bb523b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e870b000703a478e87c27dd3b5928dd
+      internalID: -703940156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21758ade5927247f29574a642b1a30cc
+      internalID: -213913889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8672a5881f7b43b6a5e9b731fc3477d
+      internalID: -1281640299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b5b72eb0e64205b614b7fda56c71f
+      internalID: 1062836948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9b0e859b734b3aaeedd405d7fede5
+      internalID: -185750605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_5
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc1b5c2f12047d09d1f7b84db390fa
+      internalID: -249508686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_6
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7385dc69ba4b98bf22f7a450797a5
+      internalID: -1981081005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_7
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1093.3334
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe22a288de88474382804a2fdc78b35
+      internalID: 310414910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024aa75840e34df4b7627e5a24ac34f
+      internalID: 61576788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5595f550f642448fa2a0157886236
+      internalID: 606008089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26efd5ae0228d4f6091d82cc86eeb87b
+      internalID: 462038002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12dc8cec6a5c4ea7910d6fa6aca83f8
+      internalID: 1933657448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a8a3c2359514f0aa65d6aef2d55933
+      internalID: 374122854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939db8ce16aba4099ae7ad37e432a3ce
+      internalID: 1102120247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_14
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808201fde08d45fd873a44716dba30e
+      internalID: 2109587255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_15
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 875.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec1c800db304c3da568502a31fb850
+      internalID: 480296270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c0ce288bfa40e0bb6ec56d15f1e4e
+      internalID: -1564908415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf848beab857a48b4b07cae2f498eada
+      internalID: 1735385388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350eaba89ed90457eb6d0d86050ba98f
+      internalID: 951711304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_19
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b041dcd404445f7b1b793384312e54
+      internalID: -623433753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55370941d889e4a419c371ddbcd4b0dc
+      internalID: -1357811886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_21
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7154f43f3054aa596586c2eafc5910
+      internalID: 1395264549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_22
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717192c8b437b4229b57d0ca0a1f1e86
+      internalID: 382938149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_23
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 657.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f6fa11af4854b0ba8a80cb02e0c4d0
+      internalID: -585690424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f2316f559d432198644dafd53b0eb
+      internalID: 175417829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5adc0c339da94a718d1db71f893134c
+      internalID: 1958459714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45cef0bd8a9a4b558c5f7ad8fc47929
+      internalID: 1258572480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a369aee41eb494aa74b1fce5e85153
+      internalID: 142450266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e5cd32ce1aa4518b45162135ca78ec
+      internalID: 1252410024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_29
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356409363ad8a41379ea3a87cf680b80
+      internalID: -1469502197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_30
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8c1812ad19440b9a858932d2aa21ac
+      internalID: -1773600333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_31
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 439.3333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe333faa3cf418fa86d53151f3da5d
+      internalID: -1380617643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5123541d83484a3aa50383a835d8400
+      internalID: -312305928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb3b773c4d8c4ff787130b48d42174d
+      internalID: -783701519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287009ff975cb46ebb12925a9bd46b4f
+      internalID: -959229387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ffd4250973041d3a1e37aa4f9760ea
+      internalID: -1507733873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_36
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77d268d88fe4530b9e5cb11c64d53c
+      internalID: 903853356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_37
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae365337bd44ea78b914b8755b12e3
+      internalID: -234687679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_38
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5f2bc19120d48e7982052dd816b04a
+      internalID: -742650410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_39
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 221.33333
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e664af43af354d3c8c9d6365b204e9e
+      internalID: -942334959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c77a7d921ff4ce2b1375d4c52f8c5c
+      internalID: 2013345021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b152093be864468b6672bbc0e7558d
+      internalID: 237731281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_42
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c5cd4f8d224a638a0938e36b2ff67
+      internalID: 1350401441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_43
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd74f850eb754db2ab51928c2fa4377
+      internalID: -316476556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_44
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be7a393278e4f51bf3e2d9c50c4c45
+      internalID: 100361436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_45
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59066645f01ab4d9ab7a6586aec79fb6
+      internalID: 726952206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-particle-effects-png-1019506_46
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3.3333282
+        width: 248.125
+        height: 218.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c150ebe88ba4c84a4d25bfaded3a1f
+      internalID: 1683635398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngkey.com-particle-effects-png-1019506_40: 2013345021
+      pngkey.com-particle-effects-png-1019506_5: -249508686
+      pngkey.com-particle-effects-png-1019506_39: -942334959
+      pngkey.com-particle-effects-png-1019506_1: -213913889
+      pngkey.com-particle-effects-png-1019506_14: 2109587255
+      pngkey.com-particle-effects-png-1019506_18: 951711304
+      pngkey.com-particle-effects-png-1019506_31: -1380617643
+      pngkey.com-particle-effects-png-1019506_10: 462038002
+      pngkey.com-particle-effects-png-1019506_45: 726952206
+      pngkey.com-particle-effects-png-1019506_36: 903853356
+      pngkey.com-particle-effects-png-1019506_16: -1564908415
+      pngkey.com-particle-effects-png-1019506_22: 382938149
+      pngkey.com-particle-effects-png-1019506_29: -1469502197
+      pngkey.com-particle-effects-png-1019506_37: -234687679
+      pngkey.com-particle-effects-png-1019506_0: -703940156
+      pngkey.com-particle-effects-png-1019506_20: -1357811886
+      pngkey.com-particle-effects-png-1019506_2: -1281640299
+      pngkey.com-particle-effects-png-1019506_25: 1958459714
+      pngkey.com-particle-effects-png-1019506_28: 1252410024
+      pngkey.com-particle-effects-png-1019506_30: -1773600333
+      pngkey.com-particle-effects-png-1019506_27: 142450266
+      pngkey.com-particle-effects-png-1019506_12: 374122854
+      pngkey.com-particle-effects-png-1019506_15: 480296270
+      pngkey.com-particle-effects-png-1019506_9: 606008089
+      pngkey.com-particle-effects-png-1019506_41: 237731281
+      pngkey.com-particle-effects-png-1019506_11: 1933657448
+      pngkey.com-particle-effects-png-1019506_32: -312305928
+      pngkey.com-particle-effects-png-1019506_38: -742650410
+      pngkey.com-particle-effects-png-1019506_8: 61576788
+      pngkey.com-particle-effects-png-1019506_35: -1507733873
+      pngkey.com-particle-effects-png-1019506_23: -585690424
+      pngkey.com-particle-effects-png-1019506_7: 310414910
+      pngkey.com-particle-effects-png-1019506_26: 1258572480
+      pngkey.com-particle-effects-png-1019506_44: 100361436
+      pngkey.com-particle-effects-png-1019506_24: 175417829
+      pngkey.com-particle-effects-png-1019506_3: 1062836948
+      pngkey.com-particle-effects-png-1019506_4: -185750605
+      pngkey.com-particle-effects-png-1019506_33: -783701519
+      pngkey.com-particle-effects-png-1019506_6: -1981081005
+      pngkey.com-particle-effects-png-1019506_21: 1395264549
+      pngkey.com-particle-effects-png-1019506_42: 1350401441
+      pngkey.com-particle-effects-png-1019506_17: 1735385388
+      pngkey.com-particle-effects-png-1019506_34: -959229387
+      pngkey.com-particle-effects-png-1019506_19: -623433753
+      pngkey.com-particle-effects-png-1019506_13: 1102120247
+      pngkey.com-particle-effects-png-1019506_46: 1683635398
+      pngkey.com-particle-effects-png-1019506_43: -316476556
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

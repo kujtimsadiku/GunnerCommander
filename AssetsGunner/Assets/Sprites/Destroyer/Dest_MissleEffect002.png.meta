@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 44cdc0a53ce534fdfb9cfbd4331504d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 60
+        height: 67
+      alignment: 9
+      pivot: {x: -0.8, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefca8268597455ebca92c7079a05c1
+      internalID: -1441014668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1515
+        width: 111
+        height: 104
+      alignment: 9
+      pivot: {x: 0.017409453, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af739a6acafe4ee5976ce13e21fe1a9
+      internalID: 292419629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1560
+        width: 26
+        height: 49
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4491b7ab9f2ad421996eb9edb5bdf50f
+      internalID: -967851733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 60
+        height: 68
+      alignment: 9
+      pivot: {x: -0.8, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8416019f660b4e0f805e51897472020
+      internalID: -727846028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1384
+        width: 60
+        height: 71
+      alignment: 9
+      pivot: {x: -0.8, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e49ed63ea44f828aa720f11208b4a
+      internalID: -1522282638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1405
+        width: 113
+        height: 107
+      alignment: 9
+      pivot: {x: 0.021555943, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef9afba08964615917a735b6421532
+      internalID: 1710819803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1328
+        width: 64
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b7dadd13d74263b626f191a8388bc
+      internalID: -428960307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1462
+        width: 43
+        height: 79
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf947f430bc4fb99306c10bd7594ba
+      internalID: 969556067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1295
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.016713794, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27159f6da4c0480580857d94d633a21
+      internalID: 774314055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1186
+        width: 117
+        height: 106
+      alignment: 9
+      pivot: {x: 0.033989865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6eb3e2e7c1406dbfd0f1c85cd8c44
+      internalID: -657895800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1242
+        width: 58
+        height: 73
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31173b18a98ff4e589ecb099f21322cd
+      internalID: 913564786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1069
+        width: 118
+        height: 108
+      alignment: 9
+      pivot: {x: 0.041389465, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada678bd37124d9bab0540ec765b8c4
+      internalID: 2134197179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1138
+        width: 76
+        height: 79
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47503167f86fa4496b76cac645a124d5
+      internalID: 1899370577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1015
+        width: 81
+        height: 85
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81259935666d34cf296d5e3fc581c844
+      internalID: -1245341160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 952
+        width: 119
+        height: 110
+      alignment: 9
+      pivot: {x: 0.05576921, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ca27e1d0d44228a772835f3055ffd
+      internalID: 955707824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 903
+        width: 86
+        height: 85
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32931fa396c4a9c8c39491d0b3c22c
+      internalID: -1072414792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 833
+        width: 119
+        height: 112
+      alignment: 9
+      pivot: {x: 0.07293323, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6753c8a23ee44768923e534493bb463
+      internalID: 117254831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_40
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 795
+        width: 104
+        height: 87
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5328a08cfad544852ace406d876ca04c
+      internalID: 304792108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 716
+        width: 111
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052bca2e50b234c7b8a25ff587a409fc
+      internalID: -2122955478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 696
+        width: 109
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dedabf2b1df34789b99c3a73f55b125
+      internalID: -1028765178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 603
+        width: 108
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9512caf686c43c691c20108fc620cd
+      internalID: -2071928397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 583
+        width: 111
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650825917395f4f228e49a63ef7983ae
+      internalID: 2077495573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 476
+        width: 109
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d116e6c4e3044b3a93dee44284d7238
+      internalID: 785244528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 358
+        width: 109
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0eda9663ee4dddb12367ca84b12cb
+      internalID: 1661786510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 243
+        width: 109
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c10445b6f347a182b895b0d503d16
+      internalID: -569422406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 110
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9566e4b564a0f462ebaadbccf6112b1c
+      internalID: 347617386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dest_MissleEffect002_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 112
+        height: 98
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07479fdc6d4044b99bce18cb9251a3e
+      internalID: 1839090264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dest_MissleEffect002_5: -405450281
+      Dest_MissleEffect002_24: 1899370577
+      Dest_MissleEffect002_37: -1072414792
+      Dest_MissleEffect002_31: -1245341160
+      Dest_MissleEffect002_45: 785244528
+      Dest_MissleEffect002_12: -1408376137
+      Dest_MissleEffect002_35: 851079609
+      Dest_MissleEffect002_23: 1822684772
+      Dest_MissleEffect002_32: -59417961
+      Dest_MissleEffect002_47: 1010918886
+      Dest_MissleEffect002_14: -1570225117
+      Dest_MissleEffect002_20: -657895800
+      Dest_MissleEffect002_53: -864414100
+      Dest_MissleEffect002_55: -1089679363
+      Dest_MissleEffect002_43: -2071928397
+      Dest_MissleEffect002_27: -1447639137
+      Dest_MissleEffect002_50: 757014235
+      Dest_MissleEffect002_59: -1524613641
+      Dest_MissleEffect002_17: 2025331010
+      Dest_MissleEffect002_46: 1661786510
+      Dest_MissleEffect002_2: -967851733
+      Dest_MissleEffect002_13: 1809497430
+      Dest_MissleEffect002_22: 2134197179
+      Dest_MissleEffect002_1: 292419629
+      Dest_MissleEffect002_25: 175421506
+      Dest_MissleEffect002_54: -1524498368
+      Dest_MissleEffect002_49: -174415479
+      Dest_MissleEffect002_6: 554013089
+      Dest_MissleEffect002_36: -51269930
+      Dest_MissleEffect002_10: 969556067
+      Dest_MissleEffect002_62: 1839090264
+      Dest_MissleEffect002_61: 125897988
+      Dest_MissleEffect002_9: -428960307
+      Dest_MissleEffect002_33: 955707824
+      Dest_MissleEffect002_57: 229725358
+      Dest_MissleEffect002_16: 557883389
+      Dest_MissleEffect002_38: 87272542
+      Dest_MissleEffect002_4: -1861645565
+      Dest_MissleEffect002_8: 1710819803
+      Dest_MissleEffect002_28: -705883412
+      Dest_MissleEffect002_30: 199306750
+      Dest_MissleEffect002_18: 1046321333
+      Dest_MissleEffect002_40: 304792108
+      Dest_MissleEffect002_58: -1470634326
+      Dest_MissleEffect002_48: -569422406
+      Dest_MissleEffect002_15: -653513853
+      Dest_MissleEffect002_21: 913564786
+      Dest_MissleEffect002_56: 347617386
+      Dest_MissleEffect002_26: 267643370
+      Dest_MissleEffect002_11: 14237833
+      Dest_MissleEffect002_29: -1303382063
+      Dest_MissleEffect002_34: 1392528560
+      Dest_MissleEffect002_51: -35027910
+      Dest_MissleEffect002_39: 117254831
+      Dest_MissleEffect002_7: -1522282638
+      Dest_MissleEffect002_52: 2079146491
+      Dest_MissleEffect002_44: 2077495573
+      Dest_MissleEffect002_41: -2122955478
+      Dest_MissleEffect002_3: -727846028
+      Dest_MissleEffect002_0: -1441014668
+      Dest_MissleEffect002_60: -554979874
+      Dest_MissleEffect002_19: 774314055
+      Dest_MissleEffect002_42: -1028765178
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

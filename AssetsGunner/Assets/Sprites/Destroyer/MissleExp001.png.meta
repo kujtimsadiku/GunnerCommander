@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 67d6259695faf4f44a4c43831605d617
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissleExp001_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32384950367c4adbbd5e87a84b09af5
+      internalID: -349192791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed4aed4b5a343fd8adc00690cf0160
+      internalID: 1844740845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 91
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8952e94cc0fcc4c388a6372390e80092
+      internalID: -1587363659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea286ddbb484799a5a9606c9d88ceb
+      internalID: 965815089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 91
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06728a8b4e8ac4bc7ae9333b0c1ad0e9
+      internalID: -1840523465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 91
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff433dc7d294e208e9ebb72667dbdb
+      internalID: 1093530113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 91
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac65a73096c640c3a800bced3c08ecb
+      internalID: 558655114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 92
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafd6c8df270497baae543b7c94cc32
+      internalID: 1667418780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47db1b8ecac445099be257d5faafd7a
+      internalID: 1479921460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 93
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef81a2be1d44f0a98828938cff240d
+      internalID: 831594397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 93
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31afa48db77a043b98a20338d11517a3
+      internalID: -844725876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 93
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a5daa894b44d2dae6f85c0967b936
+      internalID: -1961121069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 18
+        width: 44
+        height: 47
+      alignment: 9
+      pivot: {x: 0.48441315, y: 0.5421883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a768b4f3b3c6c42bd8ce4f1b2aaa6028
+      internalID: 156411066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 42
+        height: 47
+      alignment: 9
+      pivot: {x: 0.48722494, y: 0.54662275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48c0ea3a468424d8fdbbce7f0b69fe
+      internalID: -1532962307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.5010013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcceff5c02384088ac1beb3849d2bda
+      internalID: 261708631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 22
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4912757, y: 0.49471095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f7648cfc84455d8932a15ea517ae5
+      internalID: -1735199652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 23
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5256019, y: 0.46920538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba46b4900d54a0e8694ae91c2dc121
+      internalID: 1702720238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 22
+        width: 38
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5121564, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25498e6f59b9c4699a1661c992cf804d
+      internalID: 1903167483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 26
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55834264, y: 0.4726204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dae902d45ae49488d3dc136639b6d2
+      internalID: -245398188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 26
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5357701, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21367bea8d0c84c4ea0324bf8bf03a32
+      internalID: 1710607724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 30
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48916072, y: 0.46510205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe2bd3a78cee47368df42cca6ad64cc
+      internalID: -494239897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 31
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48066506, y: 0.45528716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27241654ac34eaa9f2d29bb4630e81
+      internalID: 2018873544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 39
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38461155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db1bb273d7f4a39be3899be124397c
+      internalID: 542853302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 39
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51052046, y: 0.27380484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8268c25d8909841bd9eebf9e7080c821
+      internalID: -1656776978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 37
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3adf5a47c58458eae632125c9aad34
+      internalID: -1737151931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissleExp001_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 38
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde521cdef8e4042bdacb803cc10d08
+      internalID: 1196312293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MissleExp001_2: -1587363659
+      MissleExp001_5: 1093530113
+      MissleExp001_16: 1702720238
+      MissleExp001_6: 558655114
+      MissleExp001_17: 1903167483
+      MissleExp001_1: 1844740845
+      MissleExp001_23: -1656776978
+      MissleExp001_25: 1196312293
+      MissleExp001_0: -349192791
+      MissleExp001_11: -1961121069
+      MissleExp001_12: 156411066
+      MissleExp001_4: -1840523465
+      MissleExp001_7: 1667418780
+      MissleExp001_15: -1735199652
+      MissleExp001_8: 1479921460
+      MissleExp001_20: -494239897
+      MissleExp001_10: -844725876
+      MissleExp001_19: 1710607724
+      MissleExp001_22: 542853302
+      MissleExp001_14: 261708631
+      MissleExp001_9: 831594397
+      MissleExp001_18: -245398188
+      MissleExp001_21: 2018873544
+      MissleExp001_24: -1737151931
+      MissleExp001_13: -1532962307
+      MissleExp001_3: 965815089
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

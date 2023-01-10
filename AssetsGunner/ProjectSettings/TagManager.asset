@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EndLine
+  - Tank
+  - LaneManager
+  - EnemyLaneManager
+  - Deployer
+  - Fence
+  - MousePosition
+  - Rocket
+  - Troop
+  - Enemy
+  - Allied
+  - EnemyDeployer
+  - Guns
+  - AkReload
+  - Ammo
+  - Shop
+  - Restart
+  - Main Menu
+  - Quit
+  - Resume
+  - Instruction
+  - Settings
+  - Resolution
+  - Play
+  - Music
+  - Effect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Allied
+  - Water
+  - UI
+  - Enemy
+  - EndLine
+  - Fence
+  - LaneManager
+  - EnemyLaneManager
+  - Projectile
+  - Boundary
+  - Level
+  - BossBoxes
+  - Money
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Dots
+    uniqueID: 2999072461
+    locked: 0
+  - name: Money
+    uniqueID: 1585889063
+    locked: 0
+  - name: Troops
+    uniqueID: 1912569381
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hud
+    uniqueID: 1609279011
+    locked: 0
+  - name: Shop
+    uniqueID: 2623855711
+    locked: 0
+  - name: Mouse
+    uniqueID: 507938753
+    locked: 0

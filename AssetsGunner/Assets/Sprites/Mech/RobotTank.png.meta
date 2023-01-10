@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: e2b6b93e32aec45c584004b11f636ad2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotTank_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 72
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4861111, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84982385e554fbda574c18113aec5a
+      internalID: -184960457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 72
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e2eeec29cc4e79901269e4a82aad6
+      internalID: 890693812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 72
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06c197ee5ebb4c81a0f2a542a197c01
+      internalID: 2018632567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 72
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.48529413, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a18e7633c1e748dc92f38d9a5efd9a9
+      internalID: -838680571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 72
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d287879e494b8ab77bd488965c435
+      internalID: -1194048609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 72
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe89bbe4c40b49a8b55eaadcab14e3b
+      internalID: -1940057176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 72
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7562bb4ff29ea40d0ac9781da039529e
+      internalID: 113096014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 72
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1e2e8ee0dc4ce1a0bbfa396012793
+      internalID: -762103236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d281081500e4093aeaf0d7c92a63b4
+      internalID: -1813564505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47761193, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a60a40a67447da932f7baadde1d32
+      internalID: 409344669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2202af9d1fcd942b6afa272c5047e3df
+      internalID: -1444826032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47761193, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f9ada9e1acb4fb1aa23ef02e1f497f
+      internalID: 1889102151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.44776118, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45aa064444024bd1814c8172eca6f98
+      internalID: 1201804641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 66
+        height: 61
+      alignment: 9
+      pivot: {x: 0.469697, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe8da4958e8406683aa7a5502ae7bc
+      internalID: -1353906294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 6
+        width: 66
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78886dc0d3a45425085befc8f8a71392
+      internalID: -1925138599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotTank_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6
+        width: 70
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e361f16549e4d6eb9aaeffd0eab12c
+      internalID: 1019583214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RobotTank_2: 2018632567
+      RobotTank_9: 409344669
+      RobotTank_13: -1353906294
+      RobotTank_7: -762103236
+      RobotTank_5: -1940057176
+      RobotTank_8: -1813564505
+      RobotTank_14: -1925138599
+      RobotTank_4: -1194048609
+      RobotTank_11: 1889102151
+      RobotTank_6: 113096014
+      RobotTank_1: 890693812
+      RobotTank_10: -1444826032
+      RobotTank_3: -838680571
+      RobotTank_0: -184960457
+      RobotTank_12: 1201804641
+      RobotTank_15: 1019583214
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
