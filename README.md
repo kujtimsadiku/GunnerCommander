@@ -1,21 +1,20 @@
 # GunnerCommanderMAC
 
-🕹 Game made by Kerkko Kuokkanen & Kujtim Sadiku
-This is our first project with Unity.
+🕹 Game made by
+Kerkko Kuokkanen  https://github.com/kkuokkan
+Kujtim Sadiku     https://github.com/kujtimsadiku
+This is our first complete project in Unity
 
 ### GunnerCommander
 
 Gunner Commander is a game where you have 7 lanes, and you have to defend each lane from enemy who is trying to get to your fence and destroy your base. You and the enemy have money to deploy troops, but the enemy is always slightly stronger than you and has a little bit more money than you. BUT you have your GUNS! Show that you are a true commander by deploying troops and by finding the best strategies to defend your base while you upgrade your troops and guns.
-
-### Instruction
-Quick walkthrough. You choose your lane with W (up) and S (down). On the left top corner, you have your troops. You choose them with A (left) and D (right) and press space to deploy them. You start with 5 troop, and you can buy with upgrade money more troops to fight alongside you.
 
 #### Deploying
 Here is a demonstration how to deploy troops
 
 #### Guns
 You start with pistol. While moving to level 6 you unlock AK-47 and at level 10 you get shotgun. 
-You can upgrade these guns with upgrade money at the store. You can also unlock Desert Eagle, Bow, Bazooka and Machine Gun with upgrade money.
+You can upgrade these guns with upgrade money at the store. You can also unlock Desert Eagle, Bow, Bazooka and Machine Gun with upgrade money. Here are some feature about guns when you upgrade them to MAX.
 
 #### Shop
 In shop you can upgrade your guns, troops and fence, buy ammo, exchange your upgrade money to deployment money.
@@ -28,3 +27,5 @@ In settings, you can turn full screen ON or OFF, change the resolutions (resolut
 
 #### Game Over
 This is where it ends. You fought well commander.
+
+![Gameover](https://user-images.githubusercontent.com/33124748/212303924-6761d429-2b61-477e-8057-867326fd25f4.gif)
