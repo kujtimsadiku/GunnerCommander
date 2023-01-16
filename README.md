@@ -1,8 +1,11 @@
 # GunnerCommanderMAC
 
 🕹 Game made by
+
 Kerkko Kuokkanen  https://github.com/kkuokkan
+
 Kujtim Sadiku     https://github.com/kujtimsadiku
+
 This is our first complete project in Unity
 
 ### GunnerCommander
@@ -17,10 +20,17 @@ You start with pistol. While moving to level 6 you unlock AK-47 and at level 10 
 You can upgrade these guns with upgrade money at the store. You can also unlock Desert Eagle, Bow, Bazooka and Machine Gun with upgrade money. Here are some feature about guns when you upgrade them to MAX.
 
 #### Shop
-In shop you can upgrade your guns, troops and fence, buy ammo, exchange your upgrade money to deployment money.
+In shop you can upgrade your guns, troops and fence, heal fence, buy ammo and exchange your upgrade money to deployment money.
 
 #### Pick Ups
-When you kill an enemy troop you receive deploy money, and they have a chance to drop a money stack by clicking it with your right mouse button, you can pick it up. At level 1 you start with pistol all the way to level 6 where you get AK-47. In this round, enemy will start to drop also ammo boxes. What gun you are using at that time to pick it will register in that gun
+When you kill an enemy troop you receive deploy money, and they have a chance to drop a money stack (upgrade money) by clicking it with your right mouse button, you can pick it up. At level 1 you start with pistol all the way to level 6 where you get AK-47. In this round, enemy will start to drop also ammo boxes. What gun you are using at that time to pick it will register in that gun.
+###### Upgrade Money Pick
+
+![Moneypick](https://user-images.githubusercontent.com/33124748/212653988-3020d6dc-74ed-4d3e-b925-7f56aa1a4aa4.gif)
+
+###### Ammo Pick
+
+![Ammopick](https://user-images.githubusercontent.com/33124748/212654209-f82488ea-6dc2-4dec-ac46-b48bd7eb9f7d.gif)
 
 #### Settings
 In settings, you can turn full screen ON or OFF, change the resolutions (resolutions work the way that it will check what your monitor or TV supports) and you can adjust music volume or game volume.
