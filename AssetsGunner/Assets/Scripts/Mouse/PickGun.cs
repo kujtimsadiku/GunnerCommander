@@ -160,7 +160,7 @@ public class PickGun : MonoBehaviour
 			gunSelected = 4;
 		else if (Input.GetKeyDown(KeyCode.Alpha6) && ownedGuns[5] == 1)
 			gunSelected = 5;
-		else if (Input.GetKeyDown(KeyCode.Alpha7) && ownedGuns[5] == 1)
+		else if (Input.GetKeyDown(KeyCode.Alpha7) && ownedGuns[6] == 1)
 			gunSelected = 6;
 		if (Input.GetAxis("Wheel") < 0f && !shopUp.shopUp) // forward
 		{
