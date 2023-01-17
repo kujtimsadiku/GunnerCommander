@@ -1,4 +1,3 @@
-
 using UnityEngine;
 
 public class FireArrow : MonoBehaviour
@@ -41,8 +40,6 @@ public class FireArrow : MonoBehaviour
 			audio.Play();
 			CreateArrow();
 		}
-		if (arrowCharge)
-			ChargeArrow();
 		if (arrowCharge && !click.holdClick)
 		{
 			arrowCharge = false;
@@ -53,7 +50,7 @@ public class FireArrow : MonoBehaviour
 			if (currentArrow != null)
 			{
 				currentArrow.released = true;
-				currentArrow.landingPoint = new Vector2(landingPoint.x, landingPoint.y);
+				currentArrow.landingPoint = new Vector2(click.mousePosition.x, landingPoint.y);
 				currentArrow.chargeCount = chargeCount;
 				currentArrow = null;
 			}
@@ -112,6 +109,7 @@ public class FireArrow : MonoBehaviour
 			return ;
 		if (currentArrow == null || arrowCharge == false || release == true)
 			return ;
+		ChargeArrow();
 		totalAdditon += addition;
 		addition /= 1.045f;
 	}
