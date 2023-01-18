@@ -61,6 +61,8 @@ When you kill an enemy troop you receive deploy money, and they have a chance to
 #### Settings
 In settings, you can turn full screen ON or OFF, change the resolutions (resolutions work the way that it will check what your monitor or TV supports) and you can adjust music volume or game volume.
 
+![Settings](https://user-images.githubusercontent.com/33124748/213158925-cdab0310-dadf-4e2a-883b-409afa4d77e5.gif)
+
 #### Game Over
 This is where it ends. You fought well commander.
 
