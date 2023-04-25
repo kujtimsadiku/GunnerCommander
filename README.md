@@ -2,7 +2,7 @@
 
 🕹 Game made by
 
-Kerkko Kuokkanen  https://github.com/kkuokkan
+Kerkko Kuokkanen  https://github.com/KerkkoKuokkanen
 
 Kujtim Sadiku     https://github.com/kujtimsadiku
 
